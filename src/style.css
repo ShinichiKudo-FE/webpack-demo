@@ -1,0 +1,12 @@
+@font-face{
+    font-family: myFont;
+    src: url(./Tensentype-DouDouJ.ttf);
+}
+.hello{
+    color: red;
+    background: url(./42.png);
+    font-family: myFont;
+}
+body{
+    background: transparent;
+}
